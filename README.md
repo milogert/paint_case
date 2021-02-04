@@ -15,17 +15,15 @@ Paint case for carrying miniatures and painting supplies. The case and drawers a
 
 ## Case Dimensions
 
-| --- | --- |
-| Height | 320mm |
-| Width | 460mm |
-| Depth | 120mm |
+| Height | Width | Depth |
+| --- | --- | --- |
+| 320mm | 460mm | 120mm |
 
 ## Drawer Dimensions
 
-| --- | --- |
-| Height | 40mm |
-| Width | 214mm |
-| Depth | 108mm |
+| Height | Width | Depth |
+| --- | --- | --- |
+| 40mm | 214mm | 108mm |
 
 This leaves room for a 3mm lid on the top two drawers.
 
