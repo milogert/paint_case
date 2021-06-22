@@ -1,23 +1,30 @@
-# Paint Case v0.3
+# Paint Case v1.0
 
 Paint case for carrying miniatures and painting supplies. The case and drawers are intended to be laser cut from wood, but any material would work as long as you have a way to assemble them together.
 
 # End Result Photos
 
-Incoming, getting things cut soon.
+![](./pictures/1.jpg)
+![](./pictures/2.jpg)
+![](./pictures/3.jpg)
+![](./pictures/4.jpg)
 
 # Cost Summary
 
 | Part | Number | Cost/Item | Total |
-| --- | --: | --: | --: |
-| Cutting cost (1 case, 8 drawers, and 1 set of dividers) | 1 | ??? | ??? |
-| Hinges for bottom/front | 2 | ??? | ??? x 2 |
-| Latches for top/front | 1 pack of 4 (make another case for your friend!) | 10 | 10 |
-| Handle for carrying | 1 | ??? | ??? |
-| Wood glue | 1 | ??? | ??? |
-| Varnish for finishing | 1 | ??? | ??? |
-| | | --- | --- |
-| Total | ... | ... | ??? |
+| ---                                                     | --: | --: |  --: |
+| Cutting cost (1 case, 8 drawers, and 1 set of dividers) |   1 | 120 |  120 |
+| Hinges for bottom/front (2 packs)                       |   2 |   6 |   12 |
+| Latches for top/front (4 pack)                          |   1 |  10 |   10 |
+| Handle for carrying (2 pack)                            |   1 |  10 |   10 |
+| Wood glue                                               |   1 |  10 |   10 |
+| Varnish for finishing                                   |   1 |  10 |   10 |
+|                                                         |     | --- |  --- |
+| Total ................................................. | ... | ... | $172 |
+
+All the prices above are mostly from memory, so they are approximate. Obviously some of the stuff you may have at home: specifically the wood glue and the varnish. Additionally, if you didn't want to varnish the case then you could omit that.
+
+Finally, the cutting cost includes "design" help from the person cutting it (see below). So that could be much lower for you if you just take the parts and cut them as-is (see #Warranty).
 
 # Inspiration
 
@@ -29,8 +36,7 @@ Incoming, getting things cut soon.
 - Eight sections of drawers.
 - All sections of drawers support lids.
   - If you were so inclined, you could make 12 sections with magnetized drawers and lids to have increased miniature storage.
-- Room on the inside of the lid for a standard self-healing cutting mat.
-- Each part is maintainable with minimal disassembly.
+- Room on the inside of the front cover for a standard self-healing cutting mat.
 - Drawers are all the same dimensions, so you don't need to remember "this drawer for paint, this drawer for tools" etc.
 - Drawers have flexible dividers so you aren't stuck just quartering each drawer.
 - Bottom drawers have an appropriate hight for standard ~17ml dropper bottles (measurements below).
@@ -74,11 +80,11 @@ This leaves room for a 3mm lid on the top two drawers on each side of the center
 
 # TODO
 
-- [ ] I need to find a handle for the top somehow.
+- [x] I need to find a handle for the top somehow.
 - [ ] Figure out an LED solution. The lightbar is fine, but I feel I could do better than that, perhaps using some stray LEDs on a strip of wood.
 - [ ] Adhere metal to the bottom of some of the drawers.
 
-# Who did your cutting?
+# Who did the cutting?
 
 I currently live in Minnesota in the United States, so my goal was to find someone local. I found [Linnell Design](https://linnelldesign.com/) after a few tries. Mostly people either didn't cut wood (which was surprising to me), didn't respond at all, or stopped responding after I detailed my requirements.
 
@@ -91,6 +97,10 @@ If you are looking for a larger, non-local place, [Ponoko](https://ponoko.com) d
 This is a work in progress. If you decide to laser cut any of these cases don't come complaining to me if they don't fit together properly.
 
 # Version History
+
+## v1.0
+
+Finished varnishing case and proceeded to transport it cross country in a car. Everything arrived in one piece and not a single paint pot was out of place!
 
 ## v0.3
 
