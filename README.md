@@ -20,7 +20,7 @@ Paint case for carrying miniatures and painting supplies. The case and drawers a
 | Wood glue                                               |   1 |  10 |   10 |
 | Varnish for finishing                                   |   1 |  10 |   10 |
 |                                                         |     | --- |  --- |
-| Total ................................................. | ... | ... | $172 |
+| **Total**                                               | ... | ... | $172 |
 
 All the prices above are mostly from memory, so they are approximate. Obviously some of the stuff you may have at home: specifically the wood glue and the varnish. Additionally, if you didn't want to varnish the case then you could omit that.
 
@@ -30,7 +30,7 @@ Finally, the cutting cost includes "design" help from the person cutting it (see
 
 - [Frontier Wargaming's Paint Case 2.0](https://frontierwargaming.com/product/paint-case/)
 
-# (Intended) Features
+# Features
 
 - Briefcase-style portability.
 - Eight sections of drawers.
@@ -51,15 +51,10 @@ Finally, the cutting cost includes "design" help from the person cutting it (see
 
 ## Case Dimensions
 
-| Height | Width | Depth |
-| ------ | ----- | ----- |
-| 320mm  | 460mm | 120mm |
-
-## Drawer Dimensions
-
-| Height | Width | Depth |
-| ------ | ----- | ----- |
-| 40mm   | 214mm | 108mm |
+|                       | Height | Width | Depth |
+| --------------------- | ------ | ----- | ----- |
+| **Case Dimensions**   | 320mm  | 460mm | 120mm |
+| **Drawer Dimensions** | 40mm   | 214mm | 108mm |
 
 This leaves room for a 3mm lid on the top two drawers on each side of the center divider.
 
@@ -70,13 +65,13 @@ This leaves room for a 3mm lid on the top two drawers on each side of the center
 
 ## Content Height
 
-| Item                        | Height | Diameter    |
-| --------------------------- | ------ | ----------- |
-| Citadel tall pots           | 60mm   | 32mm        |
-| Kimera Kolors dropper       | 75mm   | 34mm x 24mm |
-| Reaper Paints dropper       | 76mm   | 25mm        |
-| Vallejo Game Color dropper  | 79mm   | 25mm        |
-| Vallejo Metal Color dropper | 75mm   | 35mm        |
+| Item                            | Height | Diameter    |
+| ------------------------------- | ------ | ----------- |
+| **Citadel tall pots**           | 60mm   | 32mm        |
+| **Kimera Kolors dropper**       | 75mm   | 34mm x 24mm |
+| **Reaper Paints dropper**       | 76mm   | 25mm        |
+| **Vallejo Game Color dropper**  | 79mm   | 25mm        |
+| **Vallejo Metal Color dropper** | 75mm   | 35mm        |
 
 # TODO
 
